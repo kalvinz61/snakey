@@ -1,1 +1,1 @@
-Hello, Starting to build Snake game using React.
+Snake game built using React.
